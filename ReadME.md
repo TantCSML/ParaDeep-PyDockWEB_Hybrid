@@ -20,9 +20,3 @@ The workflow converts DL-derived residue probabilities into spatial restraints, 
 ```bash
 git clone https://github.com/TantCSML/ParaDeep-PyDockWeb_pipeline.git
 cd ParaDeep-PyDockWeb_pipeline
-## Try ParaDeep in Colab
-
-Click below to open the notebook in Google Colab and run ParaDeep:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/PiyachatU/ParaDeep/blob/main/ParaDeep_Colab.ipynb)
